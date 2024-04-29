@@ -1,5 +1,6 @@
 # Modifications
 Add:
+
 . The game have two levels.
 . Appears a message that shows that you have pass to the next one.
 . To be able to pass you have to rescue 10 sheeps.
