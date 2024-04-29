@@ -1,8 +1,7 @@
-# sheep-rescue
-Unity Sheep Rescue tutorial for Interactive Systems UPF course. 
-
-New Functionalities:
-
-- Win screen shown when player saves 50 sheep.
-- 3 levels: more time between hay shoots after each level has been reached.
-- Background music that stops when game ends.
+# Modifications
+Add:
+. The game have two levels.
+. Appears a message that shows that you have pass to the next one.
+. To be able to pass you have to rescue 10 sheeps.
+. The difficulty of the next level is that you have more time between shoots.
+. You lose if you do not rescue 5 sheeps. 
